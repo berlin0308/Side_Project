@@ -36,7 +36,8 @@
 
 ## Other features
 
+- Warning MessageBox pops up if User moves widgets without selecting image file
+- Design a class 'Process' to store the info of each move
+- "reset," "undo," "redo" buttons - using 'stack' data structure
 - Pop-up MessageBox with process info after the image is saved
-- "reset," "undo," "redo" buttons - using <stack> data structure
-
 
