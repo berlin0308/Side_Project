@@ -9,23 +9,17 @@
 
 
 - "File" : select an image file from the local side
-- "reset" : reset to the initial state
-- "undo" : to the previous state 
-- "redo" : to the next state
 
 - Adjust BGR / HSV channel pixels by adjusting spinBox / slider values
 - View the region in the HSV range by adjusting spinBox / slider values
 - Select a Filter: Box filter/Gaussian/Median/Sharpen/Noise
 - Set kernel size by spinBox / slider
 
-- "flip_V": flip vertically
-- "flip_H": flip horizontally
-- "rotate_L": rotate by 90 degree CCW
-- "rotate_R": rotate by 90 degree CW
+- "flip_V", "flip_H": flip vertically / horizontally
+- "rotate_L", "rotate_R": rotate by 90 degree CCW / CW
 
-
-- Display the image by .setPixmap(...)
-- Save the processed image and a MessageBox showing the process info 
+- Display the image by setPixmap
+- Save the processed image
 
 ## Files
 
@@ -39,3 +33,10 @@
 
 - "/Download/OpenCV_HW3.rar" : Unzip, find the executable file in the folder
 - Click "OpenCV_HW3.exe", select an image, enjoy your OpenCV trip! 
+
+## Other features
+
+- Pop-up MessageBox with process info after the image is saved
+- "reset," "undo," "redo" buttons - using <stack> data structure
+
+
