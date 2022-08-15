@@ -6,8 +6,7 @@
 
 - Qt Creator 7.0.2 (Community)
 - OpenCV C++
-- mainwindow .h/.cpp/.ui
-- uitilities .h/.cpp
+
 
 - "File" : select an image file from the local side
 - "reset" : reset to the initial state
@@ -28,4 +27,11 @@
 - Display the image by .setPixmap(...)
 - Save the processed image and a MessageBox showing the process info 
 
+## Files
+
+- OpenCV_HW3.pro - project file
+- main.cpp - the main program
+- mainwindow .h/.cpp - setting widgets, signals & slots
+- uitilities .h/.cpp - functions called
+- mainwindow.ui - UI design & typesetting 
 
