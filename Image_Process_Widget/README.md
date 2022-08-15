@@ -18,7 +18,7 @@
 - "flip_V", "flip_H": flip vertically / horizontally
 - "rotate_L", "rotate_R": rotate by 90 degree CCW / CW
 
-- Display the image by setPixmap
+- Display the current processed image
 - Save the processed image
 
 ## Files
