@@ -29,10 +29,6 @@
 - uitilities .h/.cpp - functions called
 - mainwindow.ui - UI design & typesetting 
 
-## To let the Widget run...
-
-- "/Download/OpenCV_HW3.rar" : Unzip, find the executable file in the folder
-- Click "OpenCV_HW3.exe", select an image, enjoy your OpenCV trip! 
 
 ## Other features
 
@@ -41,3 +37,7 @@
 - "reset," "undo," "redo" buttons - using 'stack' data structure
 - Pop-up MessageBox with process info after the image is saved
 
+## To let the Widget run...
+
+- "/Download/OpenCV_HW3.rar" : Unzip, find the executable file in the folder
+- Click "OpenCV_HW3.exe", select an image, enjoy your OpenCV adventure! 
