@@ -38,4 +38,4 @@
 ## To let the program run...
 
 - "/Download/OpenCV_HW3.rar" : Unzip, find the executable file in the folder
-- Click "OpenCV_HW3.exe" ,select an image and enjoy your OpenCV trip! 
+- Click "OpenCV_HW3.exe", select an image, enjoy your OpenCV trip! 
