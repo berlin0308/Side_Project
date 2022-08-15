@@ -13,8 +13,8 @@
 - "undo" : to the previous state 
 - "redo" : to the next state
 
-- Adjust BGR / HSV channel pixels via spinBox / slider
-- View the region in the HSV range by adjusting  spinBox / slider values
+- Adjust BGR / HSV channel pixels by adjusting spinBox / slider values
+- View the region in the HSV range by adjusting spinBox / slider values
 - Select a Filter: Box filter/Gaussian/Median/Sharpen/Noise
 - Set kernel size by spinBox / slider
 
